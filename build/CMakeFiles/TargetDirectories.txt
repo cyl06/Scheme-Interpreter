@@ -1,0 +1,3 @@
+/mnt/d/Scheme-Interpreter/build/CMakeFiles/code.dir
+/mnt/d/Scheme-Interpreter/build/CMakeFiles/edit_cache.dir
+/mnt/d/Scheme-Interpreter/build/CMakeFiles/rebuild_cache.dir

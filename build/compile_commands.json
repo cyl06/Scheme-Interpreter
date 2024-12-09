@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/mnt/d/Scheme-Interpreter/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/code.dir/src/main.cpp.o -c /mnt/d/Scheme-Interpreter/src/main.cpp",
+  "file": "/mnt/d/Scheme-Interpreter/src/main.cpp",
+  "output": "CMakeFiles/code.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/d/Scheme-Interpreter/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/code.dir/src/syntax.cpp.o -c /mnt/d/Scheme-Interpreter/src/syntax.cpp",
+  "file": "/mnt/d/Scheme-Interpreter/src/syntax.cpp",
+  "output": "CMakeFiles/code.dir/src/syntax.cpp.o"
+},
+{
+  "directory": "/mnt/d/Scheme-Interpreter/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/code.dir/src/RE.cpp.o -c /mnt/d/Scheme-Interpreter/src/RE.cpp",
+  "file": "/mnt/d/Scheme-Interpreter/src/RE.cpp",
+  "output": "CMakeFiles/code.dir/src/RE.cpp.o"
+},
+{
+  "directory": "/mnt/d/Scheme-Interpreter/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/code.dir/src/parser.cpp.o -c /mnt/d/Scheme-Interpreter/src/parser.cpp",
+  "file": "/mnt/d/Scheme-Interpreter/src/parser.cpp",
+  "output": "CMakeFiles/code.dir/src/parser.cpp.o"
+},
+{
+  "directory": "/mnt/d/Scheme-Interpreter/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/code.dir/src/expr.cpp.o -c /mnt/d/Scheme-Interpreter/src/expr.cpp",
+  "file": "/mnt/d/Scheme-Interpreter/src/expr.cpp",
+  "output": "CMakeFiles/code.dir/src/expr.cpp.o"
+},
+{
+  "directory": "/mnt/d/Scheme-Interpreter/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/code.dir/src/value.cpp.o -c /mnt/d/Scheme-Interpreter/src/value.cpp",
+  "file": "/mnt/d/Scheme-Interpreter/src/value.cpp",
+  "output": "CMakeFiles/code.dir/src/value.cpp.o"
+},
+{
+  "directory": "/mnt/d/Scheme-Interpreter/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/code.dir/src/evaluation.cpp.o -c /mnt/d/Scheme-Interpreter/src/evaluation.cpp",
+  "file": "/mnt/d/Scheme-Interpreter/src/evaluation.cpp",
+  "output": "CMakeFiles/code.dir/src/evaluation.cpp.o"
+},
+{
+  "directory": "/mnt/d/Scheme-Interpreter/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/code.dir/src/Def.cpp.o -c /mnt/d/Scheme-Interpreter/src/Def.cpp",
+  "file": "/mnt/d/Scheme-Interpreter/src/Def.cpp",
+  "output": "CMakeFiles/code.dir/src/Def.cpp.o"
+}
+]
